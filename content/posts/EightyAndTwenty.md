@@ -110,30 +110,3 @@ Now that you've filled in the gaps, go back and revise your explanation. Make it
 Try teaching it again—out loud, to a friend, or even by recording yourself.
 
 By the end, you should feel confident that you understand the concept thoroughly.
-
----
-
-## 💻 Real Coding Example: JavaScript Closures
-
-### Step 1: Topic Chosen
-
-> JavaScript closures.
-
-### Step 2: Explain Simply
-
-> A **closure** happens when a function remembers the variables around it, even after those variables would normally be gone.  
-> It’s like having a backpack—your inner function keeps a copy of everything it needs from where it was created.
-
-```js
-function outer() {
-  let count = 0;
-  return function inner() {
-    count++;
-    return count;
-  };
-}
-
-const counter = outer();
-counter(); // 1
-counter(); // 2
-```
