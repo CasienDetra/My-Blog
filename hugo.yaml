@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://www.itmeyanouk.me/"
 languageCode: en-us
 title: Yanouk
 theme: PaperMod
@@ -102,7 +102,7 @@ markup:
     lineNoStart: 1
     lineNos: false
     lineNumbersInTable: true
-    noClasses: true
+    noClasses: false
     noHl: false
     style: dracula
     tabWidth: 4
