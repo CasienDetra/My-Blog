@@ -37,14 +37,14 @@ params:
   env: production
   keywords: [Blog, Portfolio]
   description: "yanouk<hello-world>"
-  author: Ahmad
+  author: yanouk
   defaultTheme: auto
-  images: ["/assets/toshiro.jpg"]
+  images: ["public/assets/toshiro.jpg"]
   profileMode:
     enabled: true
     title: "Yanouk" # optional default will be site title
     subtitle: "Welcome to My Page"
-    imageUrl: "/assets/toshiro.jpg" # Ensure this file exists
+    imageUrl: "public/assets/toshiro.jpg" # Ensure this file exists
     imageTitle: "profile-picture" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
