@@ -4,5 +4,5 @@ layout: "search" # necessary for search
 # url: "/archive"
 # description: "Description for Search"
 summary: "search"
-placeholder: "Beyond this, there is no comeback."
+placeholder: "Stop Wandering Start Typing"
 ---

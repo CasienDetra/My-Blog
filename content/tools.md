@@ -3,9 +3,9 @@ showtoc: false
 searchHidden: true
 ---
 
-I often get questions about my setup and the software I use. Most of the time, it’s something like, “How do I make my desktop look cool like yours?” So, here’s a page detailing everything I use daily.
+I often receive inquiries about my setup and the software I utilize. Typically, Therefore, I’ve created this page to detail everything I use on a daily basis.
 
-My motivation behind choosing my operating system and software is to maximize efficiency and work seamlessly. I aim to use my computer “at the speed of thought,” which is why I prefer minimal yet powerful tools. This setup works best for me, but it may not be for everyone.
+My choice of operating system and software is driven by the desire to maximize efficiency and ensure seamless workflow. I strive to use my computer “at the speed of thought,” which is why I opt for minimal yet powerful tools. This setup is ideal for me, though it may not suit everyone.
 
 ![setup image](/assets/my-setup.png)
 ![vscode image](/assets/setup-vscode.png)
