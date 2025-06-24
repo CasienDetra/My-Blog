@@ -20,7 +20,7 @@ menu:
     - identifier: portfolio
       name: Portfolio
       url: /portfolio/
-      weight: 20
+      weight: 30
 
 ignoreLogs: "warning-goldmark-raw-html"
 
