@@ -104,5 +104,5 @@ markup:
     lineNumbersInTable: true
     noClasses: false
     noHl: false
-    style: dracula
+    style: monokai
     tabWidth: 4
