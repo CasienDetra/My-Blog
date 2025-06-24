@@ -1,4 +1,4 @@
-baseURL: "https://casiendetra.github.io/My-Blog/"
+baseURL: "https://yanouk-blog.netlify.app/"
 languageCode: en-us
 title: Yanouk
 theme: PaperMod
@@ -39,12 +39,12 @@ params:
   description: "yanouk<hello-world>"
   author: yanouk
   defaultTheme: auto
-  images: ["public/assets/toshiro.jpg"]
+  images: ["https://yanouk-blog.netlify.app/assets/toshiro.jpg"]
   profileMode:
     enabled: true
     title: "Yanouk" # optional default will be site title
     subtitle: "Welcome to My Page"
-    imageUrl: "public/assets/toshiro.jpg" # Ensure this file exists
+    imageUrl: "https://yanouk-blog.netlify.app/assets/toshiro.jpg" # Ensure this file exists
     imageTitle: "profile-picture" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
@@ -65,10 +65,10 @@ params:
     - name: "instagram"
       url: ""
   assets:
-    favicon: "/assets/toshiro.ico"
-    favicon16x16: "/assets/favicon-16x16.png"
-    favicon32x32: "/assets/favicon-32x32.png"
-    apple_touch_icon: "/assets/apple-touch-icon.png"
+    favicon: "https://yanouk-blog.netlify.app/assets/toshiro.ico"
+    favicon16x16: "https://yanouk-blog.netlify.app/assets/favicon-16x16.png"
+    favicon32x32: "https://yanouk-blog.netlify.app/assets/favicon-32x32.png"
+    apple_touch_icon: "https://yanouk-blog.netlify.app/assets/apple-touch-icon.png"
 
   ShowReadingTime: true
   ShowShareButtons: true
