@@ -1,10 +1,10 @@
 #searchbox input {
-  padding: 4px 10px;
+  padding: 1px 10px;
   width: 100%;
   color: var(--primary);
-  font-weight: bold;
+  font-weight: 500;
   border: 2px solid var(--tertiary);
-  border-radius: var(--radius);
+  border-radius: 4px;
 }
 
 #searchbox input:focus {
